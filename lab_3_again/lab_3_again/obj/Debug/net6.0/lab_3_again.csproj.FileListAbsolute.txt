@@ -1,0 +1,15 @@
+C:\Users\987\source\repos\lab_3_again\lab_3_again\bin\Debug\net6.0\lab_3_again.exe
+C:\Users\987\source\repos\lab_3_again\lab_3_again\bin\Debug\net6.0\lab_3_again.deps.json
+C:\Users\987\source\repos\lab_3_again\lab_3_again\bin\Debug\net6.0\lab_3_again.runtimeconfig.json
+C:\Users\987\source\repos\lab_3_again\lab_3_again\bin\Debug\net6.0\lab_3_again.dll
+C:\Users\987\source\repos\lab_3_again\lab_3_again\bin\Debug\net6.0\lab_3_again.pdb
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.csproj.AssemblyReference.cache
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.AssemblyInfoInputs.cache
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.AssemblyInfo.cs
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.csproj.CoreCompileInputs.cache
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.dll
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\refint\lab_3_again.dll
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.pdb
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\lab_3_again.genruntimeconfig.cache
+C:\Users\987\source\repos\lab_3_again\lab_3_again\obj\Debug\net6.0\ref\lab_3_again.dll
